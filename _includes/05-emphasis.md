@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Passionate about **technology**.  This includes **programming languages like _golang_ and _python_**.
