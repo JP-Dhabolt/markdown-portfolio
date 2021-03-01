@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Wife
+* Kids
+* Technology
+  * Python
+  * Serverless
+  * Golang
+  * OpenGL
